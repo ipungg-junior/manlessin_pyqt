@@ -1,0 +1,4 @@
+
+class CheckWindow:
+
+    pass
